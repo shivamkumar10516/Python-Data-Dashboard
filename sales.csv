@@ -1,0 +1,11 @@
+Product,Category,Sales,Quantity,Month
+Laptop,Electronics,85000,5,Jan
+Phone,Electronics,62000,8,Jan
+Tablet,Electronics,45000,6,Feb
+Monitor,Electronics,38000,4,Feb
+Keyboard,Accessories,12000,15,Mar
+Mouse,Accessories,8000,20,Mar
+Laptop,Electronics,92000,6,Apr
+Phone,Electronics,70000,9,Apr
+Monitor,Electronics,41000,5,May
+Tablet,Electronics,52000,7,May
