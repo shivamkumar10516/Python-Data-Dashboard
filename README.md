@@ -38,3 +38,13 @@ streamlit run app.py
 
 
 The dashboard will open in your browser.
+## Dataset
+
+The project uses a sample sales dataset (`sales.csv`) for demonstrating
+data analysis and visualization features.
+
+## Future Improvements
+
+- Add more interactive filters
+- Add additional chart types
+- Deploy the dashboard online
