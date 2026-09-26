@@ -19,8 +19,14 @@ if uploaded_file is not None:
 
     # FRONTEND: Show raw data preview toggler
     if st.checkbox("Show Raw Data Preview"):
-        st.write(df.head())
-
+        st.write(df.head()) 
+        # Download the uploaded data
+    st.download_button(
+    label="⬇️ Download Data",
+    data=df.to_csv(index=False),
+    file_name="downloaded_data.csv",
+    mime="text/csv"
+   )
     # BACKEND: Calculate core metrics dynamically
     st.markdown("### 📊 Core Key Performance Indicators (KPIs)")
     
