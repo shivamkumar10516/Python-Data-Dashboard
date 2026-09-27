@@ -10,6 +10,7 @@ An interactive data analysis dashboard built using Python, Pandas, and Streamlit
 - Generate dynamic visualizations
 - Select categories for data analysis
 - Interactive dashboard using Streamlit
+- Downloaded uploaded data as CSV
 
 ## Technologies Used
 
