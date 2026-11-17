@@ -67,4 +67,4 @@ if uploaded_file is not None:
 
 else:
     # Default screen when no file is uploaded yet
-    st.info("☝️ Please upload a CSV or Excel file above to start the engine.")
+    st.info("☝️ Please upload a CSV or Excel file above to start and the engine.")
